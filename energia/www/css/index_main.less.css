@@ -320,3 +320,14 @@ body:not(#afui) .upage-outer {
     margin-bottom: 6px;
   }
 }
+.left-receptacle {
+  float: left;
+}
+.right-receptacle {
+  float: right;
+}
+.ellipsis {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
